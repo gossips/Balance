@@ -36,9 +36,9 @@ plot_lims = max(AP_max, ML_max);
 
 % Pre-define axis labels
 time_label = 't (s)';
-disp_label = 's (cm)';
-speed_label = 'v (cm/s)';
-accel_label = 'a (cm/s^2)';
+disp_label = 's (m)';
+speed_label = 'v (m/s)';
+accel_label = 'a (m/s^2)';
 
 % Plot the time series
 figure;
