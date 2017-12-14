@@ -1,5 +1,3 @@
-%% Pre-process
-% No pre-process is required
 
 %% Load time series
 % Load only if the time series is not already loaded
